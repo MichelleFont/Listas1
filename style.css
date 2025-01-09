@@ -1,0 +1,16 @@
+img{
+    width: 20%;
+    height: 20%;
+}
+
+.comidafavorita{
+    list-style-type:square;
+}
+
+.ingredientes{
+    list-style-type:circle;
+}
+
+.pasos{
+    list-style-type:square;
+}
